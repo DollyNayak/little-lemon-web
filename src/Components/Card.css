@@ -1,0 +1,39 @@
+.specials-card-container {
+    background-color: #EDEFEE;
+    width: 100%;
+    border-radius: 1rem;
+    overflow: hidden;
+  }
+  
+  .specials-card-container img{
+    height: 45%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .specials-card-header {
+    padding: 5%;
+    justify-content: space-between;
+  }
+  
+  .specials-card-header p{
+    font-weight: 600;
+    color: #ED9F7C;
+  }
+  
+  .specials-card-container > p{
+    padding: 5%;
+  }
+  
+  .specials-card-delivery a{
+    padding: 5%;
+    text-decoration: none;
+    color: #495e57;
+  }
+
+  .specials-card-delivery a:hover{
+    font-weight: 600;
+  }
+  .specials-card-delivery svg{
+    font-size:1rem;
+  }

@@ -1,0 +1,18 @@
+.specials-container {
+    padding: 5%;
+    display: flex;
+  }
+
+  box {
+    flex: 1;
+  }
+  
+  .specials-header {
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+  }
+  
+  .specials-cards {
+    gap: 1rem;
+  }

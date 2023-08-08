@@ -1,0 +1,25 @@
+.aboutme-container {
+    padding: 5%;
+  }
+  
+  .aboutme-info {
+    width: 50%;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1rem;
+    margin-right: 2rem;
+  }
+  
+  .aboutme-info h1 {
+    color: #F4CE14;
+  }
+  
+  .aboutme-image {
+    /* width: 500px */
+  }
+  
+  .aboutme-image img {
+    width: 90%;
+    max-height: 32vh;
+    border-radius: 1rem;
+  }

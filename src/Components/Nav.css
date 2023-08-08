@@ -1,0 +1,16 @@
+nav ul {
+    display: flex;
+    gap : 0.2rem;
+  }
+
+nav ul li a {
+    color: #495E57;
+    padding-top: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1.5rem;
+}
+
+nav ul li a:hover {
+  background-color: #F4CE14;
+}

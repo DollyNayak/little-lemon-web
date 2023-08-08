@@ -1,0 +1,24 @@
+.hero-container {
+    margin-bottom: 4rem;
+  }
+  
+  .hero-info {
+    width: 50%;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1rem;
+    padding: 5%;
+  }
+  
+  .hero-image {
+    width: 50%;
+  }
+  
+  .hero-image img {
+    width: 90%;
+    max-height: 32vh;
+    margin-top: 4rem;
+    margin-bottom: -4rem;
+    border-radius: 1rem;
+    object-fit: cover;
+  }
